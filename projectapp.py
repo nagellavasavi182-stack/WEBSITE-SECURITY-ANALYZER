@@ -7,7 +7,7 @@ import socket
 import ssl
 import requests
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
+
 
 # -----------------------------
 # ML MODEL (TRAINED INSIDE)
